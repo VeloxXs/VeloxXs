@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Sinan Sarıtaş
 
-<!--
-**VeloxXs/VeloxXs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 İskenderun Teknik Üniversitesi - Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
+💻 Java OOP, Spring Boot ve veritabanı teknolojileriyle projeler geliştiriyorum.  
+🚀 Backend geliştirme alanında kendimi sürekli geliştiriyor, açık kaynak projelerde aktif olmayı hedefliyorum.  
 
-Here are some ideas to get you started:
+## 🔧 Kullandığım Teknolojiler
+- Java, Spring Boot, Git, MySQL, SQLite
+- Elasticsearch (Temel)
+- REST API, JSON, OOP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Öne Çıkan Projeler
+- **[Library Management System](https://github.com/VeloxXs/LibraryApp)** – Java SE + OOP + File IO
+- Spring tabanlı mikroservis projesi (Geliştirme aşamasında)
+
+📫 Bana ulaşmak için: ssaritasyazilim@gmail.com
